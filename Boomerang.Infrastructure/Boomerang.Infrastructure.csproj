@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Boomerang.Application\Boomerang.Application.csproj" />
     <ProjectReference Include="..\Boomerang.Domain\Boomerang.Domain.csproj" />
   </ItemGroup>
 

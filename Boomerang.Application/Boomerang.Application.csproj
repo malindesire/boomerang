@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Boomerang.Domain\Boomerang.Domain.csproj" />
+    <ProjectReference Include="..\Boomerang.Infrastructure\Boomerang.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

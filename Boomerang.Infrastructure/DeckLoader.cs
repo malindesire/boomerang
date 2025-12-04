@@ -1,6 +1,7 @@
 namespace Boomerang.Infrastructure;
 
 using System.Text.Json;
+using Boomerang.Domain;
 
 public class DeckLoader
 {
